@@ -1,0 +1,41 @@
+
+h1,h2{
+    text-align: center;
+    font-weight: 100;
+}
+h2{font-size: 20px;}
+h1 div{ font-weight: 750;font-size: 40px;}
+body{
+    background-color: rgb(46, 52, 64);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(230, 199, 162);
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+body div section{
+    text-align: center;
+}
+main{
+    margin-top: 10%;
+}
+a:link {
+    color: rgb(230, 199, 162);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(230, 199, 162);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(174, 145, 110);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active {
+    color: rgb(230, 199, 162);
+    background-color: transparent;
+    text-decoration: none;
+  }
